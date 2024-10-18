@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722272494539",
+    "project_id": "capsulecare-7e7be",
+    "storage_bucket": "capsulecare-7e7be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722272494539:android:96d6394e7e7dcfdb6b0c4e",
+        "android_client_info": {
+          "package_name": "com.example.capsule_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA-owUblL_uyGe1ZVOAgaDZeBLdSbk1aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
