@@ -18,3 +18,5 @@ CapsuleCare is a Flutter-based medicine management application that helps users 
 - SQLite
 - AwesomeNotifications
 
+![Project Portfolio](screenshots/5.png)
+
