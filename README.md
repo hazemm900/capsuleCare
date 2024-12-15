@@ -1,16 +1,20 @@
-# capsule_care
+# CapsuleCare
 
-A new Flutter project.
+CapsuleCare is a Flutter-based medicine management application that helps users organize their medication schedules effectively. It allows users to:
+- Set reminders and alarms for medicine intake.
+- Track remaining capsule quantities.
+- Receive notifications with snooze and reschedule options.
+- Support for theme switching and localization (English/Arabic).
 
-## Getting Started
+## Features
+- **Medicine Reminders**: Set alarms for medicine intake.
+- **Notification Snooze**: Delay medicine notifications by 10 minutes or reschedule.
+- **Capsule Tracking**: Monitor remaining capsule counts and alert when the stock runs out.
+- **Localization**: Support for multiple languages (English and Arabic).
+- **Theme Switching**: Toggle between light and dark modes.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- SQLite
+- AwesomeNotifications
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
