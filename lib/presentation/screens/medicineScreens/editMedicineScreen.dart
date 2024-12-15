@@ -1,7 +1,6 @@
 import 'package:awesome_notifications/awesome_notifications.dart';
 import 'package:capsule_care/core/constants/my_colors.dart';
 import 'package:capsule_care/core/localization/generated/l10n.dart';
-
 import 'package:capsule_care/medicineDatabaseHelper.dart';
 import 'package:capsule_care/presentation/screens/navigationScreens/testNavigationBottom.dart';
 import 'package:capsule_care/presentation/widgets/myElevationButton.dart';
@@ -9,7 +8,6 @@ import 'package:capsule_care/presentation/widgets/myTextFormField.dart';
 import 'package:capsule_care/presentation/widgets/myWaveClipper.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-
 import '../../../core/models/madice_alaram.dart';
 
 class EditMedicine extends StatefulWidget {
